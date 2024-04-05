@@ -6,3 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Web3 Gaming
 
+My specialty lies in making smart contract, front-end and integration.
